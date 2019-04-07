@@ -3,3 +3,4 @@ include
 
 *.sqlite3
 bin
+geckodriver.log

@@ -1,0 +1,5 @@
+lib
+include
+
+*.sqlite3
+bin
